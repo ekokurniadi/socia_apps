@@ -1,4 +1,5 @@
-# aplikasi_komun
+# SOCIA
+### APLIKASI SOSMED DAN PENCARIAN BANTUAN
 
 A new Flutter project.
 
